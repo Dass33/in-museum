@@ -4,35 +4,35 @@
 
 
 .form-container {
-	background-color: transparent;
-	padding-top: 0rem;
-	font-family: serif, sans-serif;
+    background-color: transparent;
+    padding-top: 0rem;
+    font-family: serif, sans-serif;
 }
 
 .section-legend {
-	font-size: 1.5em;
-	font-weight: bold;
-	margin-bottom: 0px;
-	color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0px;
+    color: black;
 }
 
 input.date-input {
-	color: black;
-	width: 100%;
+    color: black;
+    width: 100%;
 }
 
 .agreement {
-	color: black;
+    color: black;
 }
 
 .submit {
-	background-color: transparent;
-	color: black;
-	font-size: 28px;
-	max-height: 90px;
+    background-color: transparent;
+    color: black;
+    font-size: 28px;
+    max-height: 90px;
 }
 
 button:hover {
-	background: transparent;
-	color: white;
+    background: transparent;
+    color: white;
 }
